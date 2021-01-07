@@ -1,0 +1,9 @@
+[
+    {
+      "sourceName": "APPROVED_CONSOLE_LOGIN_USERS",
+      "sourceDescription": "Validate Authorized Console User list exists",
+      "sourceSetUpOption": "Procedural_Controls_Mapping",
+      "sourceType": "MANUAL",
+      "troubleshootingText": "Add relevant troubleshooting text here"
+    }
+]

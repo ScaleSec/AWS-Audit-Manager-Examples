@@ -1,0 +1,13 @@
+[
+    {
+      "sourceName": "EC2.4",
+      "sourceDescription": "AWS SecurityHub - Terminate stopped instances after 30 days",
+      "sourceSetUpOption": "System_Controls_Mapping",
+      "sourceType": "AWS_Security_Hub",
+      "sourceKeyword": {
+        "keywordInputType": "SELECT_FROM_LIST",
+        "keywordValue": "EC2.4"
+      },
+      "troubleshootingText": "Stopped instances should be terminated within 30 days. If stopped instances are not terminated automatically then they must be manually terminated'"
+    }
+]

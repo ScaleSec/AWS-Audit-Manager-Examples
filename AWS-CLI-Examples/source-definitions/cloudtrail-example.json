@@ -1,0 +1,16 @@
+[
+    {
+      "sourceName": "signin_ConsoleLogin",
+      "sourceDescription": "Audit AWS console logins",
+      "sourceSetUpOption": "System_Controls_Mapping",
+      "sourceType": "AWS_Cloudtrail",
+      "sourceKeyword": {
+        "keywordInputType": "SELECT_FROM_LIST",
+        "keywordValue": "signin_ConsoleLogin"
+      },
+      "troubleshootingText": "Add relevant troubleshooting text here"
+    }
+]
+
+
+

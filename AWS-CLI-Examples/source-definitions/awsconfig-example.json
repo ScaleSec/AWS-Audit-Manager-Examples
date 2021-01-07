@@ -1,0 +1,14 @@
+[
+    {
+      "sourceName": "APPROVED_AMIS_BY_ID",
+      "sourceDescription": "Deploy EC2 on Approved AMIs Only",
+      "sourceSetUpOption": "System_Controls_Mapping",
+      "sourceType": "AWS_Config",
+      "sourceKeyword": {
+        "keywordInputType": "SELECT_FROM_LIST",
+        "keywordValue": "APPROVED_AMIS_BY_ID"
+      },
+      "troubleshootingText": "Add relevant troubleshooting text here"
+    }
+
+]
