@@ -1,3 +1,4 @@
+![](./customization-and-automation-in-aws-audit-manager.png)
 # AWS-Audit-Manager-Examples
 This repo contains sample code to help in creating custom controls or frameworks within AWS Audit Manager. The examples provided create an example control using each type of supported data source. It also provides scripts to create a framework and attached the custom controls created.
 
